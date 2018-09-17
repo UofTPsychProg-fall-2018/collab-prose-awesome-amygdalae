@@ -1,6 +1,12 @@
-One day 
-testing testing
-FYI this is what I mean, I see my edits here but this is forked from the original submission. 
-I can only make changes here since you've invited me here but not the original submission where our other team member made his changes
+<<<<<<< HEAD
+One day, 
+I went for a walk. All of a sudden, a tiny puppy ran past me and toward the park. It was late, the sun had set, and I turned around to make sure the owner was close by. But there was no one around.
 
-did you fork the original submission before trying to make edits?
+"Should I follow the puppy to make sure he's okay?" I thought to myself, worried. 
+
+I waited around for a minute, then decided, "Screw it. I'm gonna follow that puppy and make sure it doesn't get into any trouble."
+
+I slowly jogged toward the park. I spotted the puppy, who I nicknamed Scruffie, nosing around a gigantic oak tree. Relieved, I started to walk toward the tree,  but Scruffie suddenly bolted toward the pond. "Maybe he wants to go for a swim", I thought.
+
+He waded into the shallow end of the water. Little did I know that Scruffie couldn't swim...
+>>>>>>> upstream/submission
