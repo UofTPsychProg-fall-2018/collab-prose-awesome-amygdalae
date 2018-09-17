@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 One day, 
 I went for a walk. All of a sudden, a tiny puppy ran past me and toward the park. It was late, the sun had set, and I turned around to make sure the owner was close by. But there was no one around.
 
@@ -9,3 +10,6 @@ I slowly jogged toward the park. I spotted the puppy, who I nicknamed Scruffie, 
 
 He waded into the shallow end of the water. Little did I know that Scruffie couldn't swim...
 
+LALALALA
+
+>>>>>>> upstream/submission
