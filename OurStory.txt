@@ -1,1 +1,33 @@
-One day 
+<<<<<<< HEAD
+One day, 
+I went for a walk. All of a sudden, a tiny chocolate lab puppy ran past me and toward the park. The pooch was full of life but it was hard to tell if he knew his way. It was late, the sun had set, and I turned around to make sure the owner was close by. But there was no one around.
+
+"Should I follow the puppy to make sure he's okay?" I thought to myself, worried. "I would hate if something were to happen to such a cute, scruffy little fellow."
+
+I waited around for a minute, then decided, "Screw it. I'm gonna follow that puppy and make sure it doesn't get into any trouble."
+
+I slowly jogged toward the park. I spotted the puppy, who I nicknamed Scruffie, nosing around a gigantic oak tree. Relieved, I started to walk toward the tree,  but Scruffie ran the opposite of me. "I must've surprised him," I said to myself. 
+
+Suddenly, Scruffie bolted toward the pond. "Maybe he wants to go for a swim. I, too, could go for a dip.", I thought.
+
+He waded into the shallow end of the water. Little did I know that Scruffie couldn't swim...
+
+Scruffie let out a little yelp as he suddenly found himself in the deeper and choppier side of the pond. My heart raced as he struggled to make his way back.
+
+Without a second thought, I ran towards Scruffie. "Oh god!" I cried, "Let me get to him in time!" 
+The pond had only came up to my waist but I was sure it was a tough obstacle for a small creature like Scruffie.
+
+After a few more steps into the water, I realized that I had never swam without my water wings. I panicked as my head fell below the water level and the murky water surrounded me. Suddenly, I felt wet fur and something nipping at my shirt collar. It was Scruffie! Determinedly, he pulled me to the dry shore.
+
+"Oh, Scruffie!" I exclaimed, "I am so glad you are safe! Thank you!"
+
+I gave the dog a thankful hug and as quickly as he had appeared, he ran off.
+
+I never did see Scruffie again. I also never swam again...
+
+Moral of the story is... heroes comes in all shapes and forms, I suppose. 
+
+
+
+
+>>>>>>> upstream/submission
